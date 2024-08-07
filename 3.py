@@ -1,0 +1,2 @@
+a='Anil'
+print(a)
